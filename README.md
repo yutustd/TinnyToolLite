@@ -1,5 +1,9 @@
 # TinnyToolLite
 
-随缘维护
+- Only for personal use.
+- Busy with study, not update frequently.
+- Can only copy cookie.
 
-仅可复制 Cookie
+## Usage
+
+Download from the releases, then install.
